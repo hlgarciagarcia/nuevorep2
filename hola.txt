@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 contenido del archivo hola
 linea agregada desde la rama Hotfix
+=======
+nueva linea agregada al inicio del archivo
+contenido del archivo hola
+primea linea de ticket52"segunda linea ticket52" 
+"segunda linea ticket52-1" 
+>>>>>>> ticket52
